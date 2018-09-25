@@ -1,11 +1,16 @@
 _repo: Military-Service-and-Adventures-in-the-Far-East-Vol-II-of-2-Including-Sketches-of-the-Campaig__57350
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57350-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKinnon, Daniel Henry
     gutenberg_agent_id: '48545'
     url: http://www.gutenberg.org/2009/agents/48545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57350#Military-Service-and-Adventures-in-the-Far-East-Vol-II-of-2-Including-Sketches-of-the-Campaig_
 gutenberg_issued: '2018-06-18'
 gutenberg_type: Text
 identifiers:
